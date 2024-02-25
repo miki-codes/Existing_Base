@@ -13,3 +13,8 @@ Machine Learning Pipleline:
     4. Model Building
     5. Model Evaluation
     6. Iteration over to improve the performance
+
+HyperParameter Tuning:
+      
+      Hyperparameter tuning is a way of tuning the hyperparamaters to find the best combination of them.
+      GridsearchCV of sklearn helps us in performing hyperparameter tuning
